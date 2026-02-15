@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "smartest-meal",
+  "private_key_id": "b0196c7f3a51a35b5b200fd69153c2fb510cf4a5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDT95w3Ntb5qjVH\nUCR1PLRaNID2BJR3DD9u4tvE7tcGtX8a3ZpRk3cKogcChubgt4h+w11QgtyJSIcy\nlwd6aqhqmVr2G4nqWf6o/wyfgRQsIp7rEgsddDkABebjgCr+KNct7rmQluv5if4K\n5FgOcY4N3EA3ek4ZacIXX60Uk1JSl8QvQ/PBrhW8m6P+LOfSJyb1Mku8z9JqQO5q\nEdrpewXGl26lQrEL+qafqYZPTXSweRiTfstkFoq4Rs7kvN8fQq3V4M6cfkrDN0IM\nXELM1TbQFz83QRYPJ2cwYK1ZCSMGKMkmjWY7WYKQCsrp7hG++udptaVvorrdVJEx\nJCGCejLNAgMBAAECggEAAgQqWnGzsv8S4xFfF2jMnZY/d8rS9elW6e4cgXYOjSpi\nzojQs/mMICMq0xpUNEtqoyumkpWvSI45D83uxnpUDP3vQJIO4/zKw4uRiiutjnHr\ndkVfEUuoUyWIBoTGMLhT7t4eqijVW81O1LmxU/A+leEqqmk7OI12yPqIm4tMAcWA\njxhp4ZApBNyFcpI9tROowZBLhVQPYGOJmR0GLHd8uU28WYmhepWrD8i+tYl2fneY\nae3NLkLMsM/QvI68L5zFm7DAzZnNF2LQc3IPf/bkesl1S975klyz5CI1dKcykdsd\nmWfgaUUo+4Z6SGwf6aXy3WafmkG6UAyrvbKDvOMygQKBgQD7L2Qa09VuW+DyD5vl\nNZw/gMG7WRdkZifcFxuOeCEksV/rZ4HXdMrBedQseBE4YNe2zmSaFY+o8azxYeLR\ntqm2lOV5zvlPCeFykbjGo6EwJUhFwGewAHWvo2kBJz+NvV+CSxWUVCjqpiXLSai7\nlioiQQd817nsCigAl1NSIEfw4QKBgQDYB8UqKlv8yNAWF8Jrm5IeOfElMzB2C3Fd\n8fUH6KlNlKiVhrFnGDxHG5B8y2uHpzoHYChwMWD1J2OZMJwmO8WN2ujlSfHuq6iA\nHd4l/v3NTsQZXCCrkMIJ/pg93j02kPGUgK7XGWIYqKiMHB7DE0WtXKHrdJ87VAsP\nQj3yXsYDbQKBgBBflnbpOBBpjNA6lD7sr7K0AezkcdHpls+R8gnnasGpjkcaCCyz\nQEQ8XMhJS1YRef5Ale41WZf5qPxTFSX2cjmkmxDFnRq52ihNt227XNZ2l690S039\nua4pSL76f/oNThyAKHfyxHgHPI9zzbvsnfJ9qq9IoKXyQ4lGU/gWgpoBAoGAOUDt\n7zvkvz0VcRWA8HX9pscicwJ7EH394LEUiLEP1cDVYTOeZr1UlF/ozjo3WG9ogLXq\nYbmkgbSbv+jTKYrj07G10bbkSKXz9Wh1DMrkxvneHP5+phmqY223OYZh4MlPTVVB\ngT538iMY8HEvcfH0oHqRa06wONAQUk3zDv4xKo0CgYEAxpcyGAfB4iJDDbo3uP0S\nAN4PuxSfLWsHh50eDjvNFL0SnA2kbvZe004V916uxfTpI03cQVsVVxRBciixHu3L\nMM2ux8khL36Fd+1u1WMkec5aTy8DtzxNWUWstfhVLn6KjrgKNRW4ZWnigmPnkW3G\nVQxU4srJRPvQGD56IZWJ/P8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "smart-meal-ai@smartest-meal.iam.gserviceaccount.com",
+  "client_id": "108765607820920973349",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/smart-meal-ai%40smartest-meal.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
